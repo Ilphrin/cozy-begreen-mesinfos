@@ -1,0 +1,13 @@
+{
+  "name": "begreen",
+  "cozy-type": "static",
+  "cozy-displayName": "BeGreen",
+  "version": "1.0.0",
+  "description": "Coucou c'est moi!",
+  "icon-path": "icon.jpg",
+  "cozy-permissions": {
+    "Contact": {
+      "description": "To easily find your contacts when talking about someone."
+    }
+  }
+}
